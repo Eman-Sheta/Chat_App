@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class SingupViewmodel extends StatelessWidget {
-  const SingupViewmodel({super.key});
+class LogInViewBody extends StatelessWidget {
+  const LogInViewBody({super.key});
 
   @override
   Widget build(BuildContext context) {

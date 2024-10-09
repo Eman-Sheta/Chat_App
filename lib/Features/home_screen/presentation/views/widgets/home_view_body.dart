@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class SingupView extends StatelessWidget {
-  const SingupView({super.key});
+class HomeViewBody extends StatelessWidget {
+  const HomeViewBody({super.key});
 
   @override
   Widget build(BuildContext context) {
